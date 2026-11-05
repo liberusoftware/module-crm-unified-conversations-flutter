@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-unified-conversations-flutter",
+  "capabilityKey": "liberusoftware/module-crm-unified-conversations",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_unified_conversations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/unified-conversations.md",
+  "presentationPlan": "projects/crm/flutter/unified-conversations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
